@@ -1,0 +1,12 @@
+
+import Navber from "./componet/Navber";
+function App() {
+  return (
+    <div>
+      <Navber />
+      
+    </div>
+  );
+}
+
+export default App;
